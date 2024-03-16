@@ -1,7 +1,7 @@
 from typing import List, Tuple
 from datetime import datetime
 import create_json_array
-from collections import defaultdict, Counter
+from collections import defaultdict
 
 def q1_time(file_path: str) -> List[Tuple[datetime.date, str]]:
 
